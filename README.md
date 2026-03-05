@@ -1,0 +1,2 @@
+# BotHere
+MinerBot
